@@ -1,0 +1,13 @@
+name: RustChain
+website_url: https://github.com/Scottcjn/Rustchain
+description: Proof-of-Antiquity blockchain that rewards vintage hardware mining. Older computers earn more than newer ones through a unique consensus mechanism.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Python
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Miscellaneous
+source_code_url: https://github.com/Scottcjn/Rustchain
